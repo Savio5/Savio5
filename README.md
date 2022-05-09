@@ -1,7 +1,6 @@
-### Olá Eu sou o Savio Silva 👋
-Meu nome e Savio Silva.
-Formado em Análise e Desenvolvimento de Sistemas.
-No momento estou Estudando Html, CSS e JavaScript.
+### Olá Eu sou o Sávio Silva 👋
+sou formado em Análise e Desenvolvimento de Sistemas.
+no momento estou Estudando Html, CSS e JavaScript.
 
            
 
